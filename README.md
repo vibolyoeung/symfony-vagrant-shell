@@ -35,7 +35,7 @@ vagrant provision
 
 If everything works correctly you should be able to go here
 
-[http://127.0.0.1:8088/app_dev.php/]
+[http://127.0.0.1:8000/app_dev.php/]
 
 and see a Welcome Page
 
