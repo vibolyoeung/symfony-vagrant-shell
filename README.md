@@ -31,6 +31,12 @@ vagrant up
 vagrant provision
 ```
 
+```
+vagrant ssh
+cd /vagrant/symfony
+php app/console server:run
+```
+
 # Test if everything works correctly
 
 If everything works correctly you should be able to go here
